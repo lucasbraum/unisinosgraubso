@@ -1,2 +1,1 @@
-.DS_Store
-bin
+Trabalho para a disciplina de Sistemas Operacionais 2016/1 - Unisinos
